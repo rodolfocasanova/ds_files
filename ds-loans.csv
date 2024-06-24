@@ -1,0 +1,101 @@
+loan_id,customer_id,loan_amount,term,interest_rate,installment,grade,sub_grade,employment_length,home_ownership,annual_income,verification_status,issue_date,loan_status,purpose,title,zip_code,addr_state,dti,delinq_2yrs
+1,1001,5000,36,13.56,168.0,B,B2,10+ years,RENT,60000,Verified,2021-01-15,Current,credit_card,Credit card refinancing,12345,CA,15.0,0
+2,1002,6000,60,18.99,194.0,C,C3,2 years,MORTGAGE,72000,Source Verified,2021-02-10,Fully Paid,car,Car purchase,23456,NY,20.0,1
+3,1003,10000,36,7.49,312.0,A,A1,< 1 year,OWN,95000,Verified,2021-03-20,Charged Off,debt_consolidation,Debt consolidation,34567,TX,10.5,0
+4,1004,2000,60,15.61,69.0,C,C5,5 years,RENT,48000,Verified,2021-04-25,Current,medical,Medical expenses,45678,FL,12.0,2
+5,1005,7500,36,20.89,198.0,D,D1,3 years,MORTGAGE,84000,Source Verified,2021-05-30,Late (31-120 days),home_improvement,Home improvement,56789,IL,25.0,3
+6,1006,3000,60,14.27,102.0,B,B4,8 years,RENT,65000,Not Verified,2021-06-15,Current,small_business,Business expansion,67890,WA,14.0,0
+7,1007,4500,36,16.45,110.0,B,B5,6 years,OWN,72000,Verified,2021-07-05,In Grace Period,vacation,Vacation,78901,GA,18.0,1
+8,1008,8500,60,12.99,287.0,B,B1,4 years,MORTGAGE,90000,Source Verified,2021-08-15,Current,credit_card,Credit card refinancing,89012,NC,13.0,0
+9,1009,4000,36,17.99,98.0,C,C4,9 years,RENT,78000,Verified,2021-09-10,Current,major_purchase,Major purchase,90123,OH,22.0,2
+10,1010,9200,60,11.49,302.0,A,A3,7 years,OWN,100000,Not Verified,2021-10-05,Fully Paid,debt_consolidation,Debt consolidation,12345,MI,11.0,0
+11,1011,20000,36,19.99,521.0,D,D5,10+ years,MORTGAGE,150000,Source Verified,2021-11-20,Current,home_improvement,Home improvement,23456,PA,19.0,3
+12,1012,3200,60,9.99,103.0,B,B3,3 years,RENT,58000,Verified,2021-12-15,Current,medical,Medical expenses,34567,VA,12.5,0
+13,1013,15000,36,20.49,402.0,D,D4,5 years,OWN,135000,Verified,2022-01-10,Current,small_business,Business expansion,45678,TX,23.0,1
+14,1014,2600,60,10.49,86.0,B,B2,2 years,MORTGAGE,64000,Source Verified,2022-02-25,Current,moving,Moving and relocation,56789,WA,14.5,0
+15,1015,1000,36,21.99,40.0,E,E1,< 1 year,RENT,45000,Not Verified,2022-03-20,Late (16-30 days),other,Other,67890,CA,30.0,2
+16,1016,7500,60,17.89,185.0,C,C2,4 years,MORTGAGE,88000,Source Verified,2022-04-15,Current,credit_card,Credit card refinancing,78901,IL,20.0,0
+17,1017,5400,36,13.89,180.0,B,B4,7 years,OWN,62000,Verified,2022-05-10,Current,car,Car purchase,89012,NY,16.0,1
+18,1018,11000,60,19.49,308.0,D,D3,10+ years,RENT,120000,Not Verified,2022-06-25,Current,major_purchase,Major purchase,90123,FL,18.5,0
+19,1019,6000,36,8.49,189.0,A,A2,3 years,MORTGAGE,80000,Verified,2022-07-20,Fully Paid,home_improvement,Home improvement,12345,TX,10.0,0
+20,1020,9500,60,14.99,225.0,B,B5,8 years,OWN,95000,Source Verified,2022-08-15,Current,debt_consolidation,Debt consolidation,23456,GA,15.5,2
+21,1021,5000,36,13.56,168.0,B,B2,10+ years,RENT,60000,Verified,2021-01-15,Current,credit_card,Credit card refinancing,12345,CA,15.0,0
+22,1022,6000,60,18.99,194.0,C,C3,2 years,MORTGAGE,72000,Source Verified,2021-02-10,Fully Paid,car,Car purchase,23456,NY,20.0,1
+23,1023,10000,36,7.49,312.0,A,A1,< 1 year,OWN,95000,Verified,2021-03-20,Charged Off,debt_consolidation,Debt consolidation,34567,TX,10.5,0
+24,1024,2000,60,15.61,69.0,C,C5,5 years,RENT,48000,Verified,2021-04-25,Current,medical,Medical expenses,45678,FL,12.0,2
+25,1025,7500,36,20.89,198.0,D,D1,3 years,MORTGAGE,84000,Source Verified,2021-05-30,Late (31-120 days),home_improvement,Home improvement,56789,IL,25.0,3
+26,1026,3000,60,14.27,102.0,B,B4,8 years,RENT,65000,Not Verified,2021-06-15,Current,small_business,Business expansion,67890,WA,14.0,0
+27,1027,4500,36,16.45,110.0,B,B5,6 years,OWN,72000,Verified,2021-07-05,In Grace Period,vacation,Vacation,78901,GA,18.0,1
+28,1028,8500,60,12.99,287.0,B,B1,4 years,MORTGAGE,90000,Source Verified,2021-08-15,Current,credit_card,Credit card refinancing,89012,NC,13.0,0
+29,1029,4000,36,17.99,98.0,C,C4,9 years,RENT,78000,Verified,2021-09-10,Current,major_purchase,Major purchase,90123,OH,22.0,2
+30,1030,9200,60,11.49,302.0,A,A3,7 years,OWN,100000,Not Verified,2021-10-05,Fully Paid,debt_consolidation,Debt consolidation,12345,MI,11.0,0
+31,1031,20000,36,19.99,521.0,D,D5,10+ years,MORTGAGE,150000,Source Verified,2021-11-20,Current,home_improvement,Home improvement,23456,PA,19.0,3
+32,1032,3200,60,9.99,103.0,B,B3,3 years,RENT,58000,Verified,2021-12-15,Current,medical,Medical expenses,34567,VA,12.5,0
+33,1033,15000,36,20.49,402.0,D,D4,5 years,OWN,135000,Verified,2022-01-10,Current,small_business,Business expansion,45678,TX,23.0,1
+34,1034,2600,60,10.49,86.0,B,B2,2 years,MORTGAGE,64000,Source Verified,2022-02-25,Current,moving,Moving and relocation,56789,WA,14.5,0
+35,1035,1000,36,21.99,40.0,E,E1,< 1 year,RENT,45000,Not Verified,2022-03-20,Late (16-30 days),other,Other,67890,CA,30.0,2
+36,1036,7500,60,17.89,185.0,C,C2,4 years,MORTGAGE,88000,Source Verified,2022-04-15,Current,credit_card,Credit card refinancing,78901,IL,20.0,0
+37,1037,5400,36,13.89,180.0,B,B4,7 years,OWN,62000,Verified,2022-05-10,Current,car,Car purchase,89012,NY,16.0,1
+38,1038,11000,60,19.49,308.0,D,D3,10+ years,RENT,120000,Not Verified,2022-06-25,Current,major_purchase,Major purchase,90123,FL,18.5,0
+39,1039,6000,36,8.49,189.0,A,A2,3 years,MORTGAGE,80000,Verified,2022-07-20,Fully Paid,home_improvement,Home improvement,12345,TX,10.0,0
+40,1040,9500,60,14.99,225.0,B,B5,8 years,OWN,95000,Source Verified,2022-08-15,Current,debt_consolidation,Debt consolidation,23456,GA,15.5,2
+41,1041,5000,36,13.56,168.0,B,B2,10+ years,RENT,60000,Verified,2021-01-15,Current,credit_card,Credit card refinancing,12345,CA,15.0,0
+42,1042,6000,60,18.99,194.0,C,C3,2 years,MORTGAGE,72000,Source Verified,2021-02-10,Fully Paid,car,Car purchase,23456,NY,20.0,1
+43,1043,10000,36,7.49,312.0,A,A1,< 1 year,OWN,95000,Verified,2021-03-20,Charged Off,debt_consolidation,Debt consolidation,34567,TX,10.5,0
+44,1044,2000,60,15.61,69.0,C,C5,5 years,RENT,48000,Verified,2021-04-25,Current,medical,Medical expenses,45678,FL,12.0,2
+45,1045,7500,36,20.89,198.0,D,D1,3 years,MORTGAGE,84000,Source Verified,2021-05-30,Late (31-120 days),home_improvement,Home improvement,56789,IL,25.0,3
+46,1046,3000,60,14.27,102.0,B,B4,8 years,RENT,65000,Not Verified,2021-06-15,Current,small_business,Business expansion,67890,WA,14.0,0
+47,1047,4500,36,16.45,110.0,B,B5,6 years,OWN,72000,Verified,2021-07-05,In Grace Period,vacation,Vacation,78901,GA,18.0,1
+48,1048,8500,60,12.99,287.0,B,B1,4 years,MORTGAGE,90000,Source Verified,2021-08-15,Current,credit_card,Credit card refinancing,89012,NC,13.0,0
+49,1049,4000,36,17.99,98.0,C,C4,9 years,RENT,78000,Verified,2021-09-10,Current,major_purchase,Major purchase,90123,OH,22.0,2
+50,1050,9200,60,11.49,302.0,A,A3,7 years,OWN,100000,Not Verified,2021-10-05,Fully Paid,debt_consolidation,Debt consolidation,12345,MI,11.0,0
+51,1051,20000,36,19.99,521.0,D,D5,10+ years,MORTGAGE,150000,Source Verified,2021-11-20,Current,home_improvement,Home improvement,23456,PA,19.0,3
+52,1052,3200,60,9.99,103.0,B,B3,3 years,RENT,58000,Verified,2021-12-15,Current,medical,Medical expenses,34567,VA,12.5,0
+53,1053,15000,36,20.49,402.0,D,D4,5 years,OWN,135000,Verified,2022-01-10,Current,small_business,Business expansion,45678,TX,23.0,1
+54,1054,2600,60,10.49,86.0,B,B2,2 years,MORTGAGE,64000,Source Verified,2022-02-25,Current,moving,Moving and relocation,56789,WA,14.5,0
+55,1055,1000,36,21.99,40.0,E,E1,< 1 year,RENT,45000,Not Verified,2022-03-20,Late (16-30 days),other,Other,67890,CA,30.0,2
+56,1056,7500,60,17.89,185.0,C,C2,4 years,MORTGAGE,88000,Source Verified,2022-04-15,Current,credit_card,Credit card refinancing,78901,IL,20.0,0
+57,1057,5400,36,13.89,180.0,B,B4,7 years,OWN,62000,Verified,2022-05-10,Current,car,Car purchase,89012,NY,16.0,1
+58,1058,11000,60,19.49,308.0,D,D3,10+ years,RENT,120000,Not Verified,2022-06-25,Current,major_purchase,Major purchase,90123,FL,18.5,0
+59,1059,6000,36,8.49,189.0,A,A2,3 years,MORTGAGE,80000,Verified,2022-07-20,Fully Paid,home_improvement,Home improvement,12345,TX,10.0,0
+60,1060,9500,60,14.99,225.0,B,B5,8 years,OWN,95000,Source Verified,2022-08-15,Current,debt_consolidation,Debt consolidation,23456,GA,15.5,2
+61,1061,5000,36,13.56,168.0,B,B2,10+ years,RENT,60000,Verified,2021-01-15,Current,credit_card,Credit card refinancing,12345,CA,15.0,0
+62,1062,6000,60,18.99,194.0,C,C3,2 years,MORTGAGE,72000,Source Verified,2021-02-10,Fully Paid,car,Car purchase,23456,NY,20.0,1
+63,1063,10000,36,7.49,312.0,A,A1,< 1 year,OWN,95000,Verified,2021-03-20,Charged Off,debt_consolidation,Debt consolidation,34567,TX,10.5,0
+64,1064,2000,60,15.61,69.0,C,C5,5 years,RENT,48000,Verified,2021-04-25,Current,medical,Medical expenses,45678,FL,12.0,2
+65,1065,7500,36,20.89,198.0,D,D1,3 years,MORTGAGE,84000,Source Verified,2021-05-30,Late (31-120 days),home_improvement,Home improvement,56789,IL,25.0,3
+66,1066,3000,60,14.27,102.0,B,B4,8 years,RENT,65000,Not Verified,2021-06-15,Current,small_business,Business expansion,67890,WA,14.0,0
+67,1067,4500,36,16.45,110.0,B,B5,6 years,OWN,72000,Verified,2021-07-05,In Grace Period,vacation,Vacation,78901,GA,18.0,1
+68,1068,8500,60,12.99,287.0,B,B1,4 years,MORTGAGE,90000,Source Verified,2021-08-15,Current,credit_card,Credit card refinancing,89012,NC,13.0,0
+69,1069,4000,36,17.99,98.0,C,C4,9 years,RENT,78000,Verified,2021-09-10,Current,major_purchase,Major purchase,90123,OH,22.0,2
+70,1070,9200,60,11.49,302.0,A,A3,7 years,OWN,100000,Not Verified,2021-10-05,Fully Paid,debt_consolidation,Debt consolidation,12345,MI,11.0,0
+71,1071,20000,36,19.99,521.0,D,D5,10+ years,MORTGAGE,150000,Source Verified,2021-11-20,Current,home_improvement,Home improvement,23456,PA,19.0,3
+72,1072,3200,60,9.99,103.0,B,B3,3 years,RENT,58000,Verified,2021-12-15,Current,medical,Medical expenses,34567,VA,12.5,0
+73,1073,15000,36,20.49,402.0,D,D4,5 years,OWN,135000,Verified,2022-01-10,Current,small_business,Business expansion,45678,TX,23.0,1
+74,1074,2600,60,10.49,86.0,B,B2,2 years,MORTGAGE,64000,Source Verified,2022-02-25,Current,moving,Moving and relocation,56789,WA,14.5,0
+75,1075,1000,36,21.99,40.0,E,E1,< 1 year,RENT,45000,Not Verified,2022-03-20,Late (16-30 days),other,Other,67890,CA,30.0,2
+76,1076,7500,60,17.89,185.0,C,C2,4 years,MORTGAGE,88000,Source Verified,2022-04-15,Current,credit_card,Credit card refinancing,78901,IL,20.0,0
+77,1077,5400,36,13.89,180.0,B,B4,7 years,OWN,62000,Verified,2022-05-10,Current,car,Car purchase,89012,NY,16.0,1
+78,1078,11000,60,19.49,308.0,D,D3,10+ years,RENT,120000,Not Verified,2022-06-25,Current,major_purchase,Major purchase,90123,FL,18.5,0
+79,1079,6000,36,8.49,189.0,A,A2,3 years,MORTGAGE,80000,Verified,2022-07-20,Fully Paid,home_improvement,Home improvement,12345,TX,10.0,0
+80,1080,9500,60,14.99,225.0,B,B5,8 years,OWN,95000,Source Verified,2022-08-15,Current,debt_consolidation,Debt consolidation,23456,GA,15.5,2
+81,1081,5000,36,13.56,168.0,B,B2,10+ years,RENT,60000,Verified,2021-01-15,Current,credit_card,Credit card refinancing,12345,CA,15.0,0
+82,1082,6000,60,18.99,194.0,C,C3,2 years,MORTGAGE,72000,Source Verified,2021-02-10,Fully Paid,car,Car purchase,23456,NY,20.0,1
+83,1083,10000,36,7.49,312.0,A,A1,< 1 year,OWN,95000,Verified,2021-03-20,Charged Off,debt_consolidation,Debt consolidation,34567,TX,10.5,0
+84,1084,2000,60,15.61,69.0,C,C5,5 years,RENT,48000,Verified,2021-04-25,Current,medical,Medical expenses,45678,FL,12.0,2
+85,1085,7500,36,20.89,198.0,D,D1,3 years,MORTGAGE,84000,Source Verified,2021-05-30,Late (31-120 days),home_improvement,Home improvement,56789,IL,25.0,3
+86,1086,3000,60,14.27,102.0,B,B4,8 years,RENT,65000,Not Verified,2021-06-15,Current,small_business,Business expansion,67890,WA,14.0,0
+87,1087,4500,36,16.45,110.0,B,B5,6 years,OWN,72000,Verified,2021-07-05,In Grace Period,vacation,Vacation,78901,GA,18.0,1
+88,1088,8500,60,12.99,287.0,B,B1,4 years,MORTGAGE,90000,Source Verified,2021-08-15,Current,credit_card,Credit card refinancing,89012,NC,13.0,0
+89,1089,4000,36,17.99,98.0,C,C4,9 years,RENT,78000,Verified,2021-09-10,Current,major_purchase,Major purchase,90123,OH,22.0,2
+90,1090,9200,60,11.49,302.0,A,A3,7 years,OWN,100000,Not Verified,2021-10-05,Fully Paid,debt_consolidation,Debt consolidation,12345,MI,11.0,0
+91,1091,20000,36,19.99,521.0,D,D5,10+ years,MORTGAGE,150000,Source Verified,2021-11-20,Current,home_improvement,Home improvement,23456,PA,19.0,3
+92,1092,3200,60,9.99,103.0,B,B3,3 years,RENT,58000,Verified,2021-12-15,Current,medical,Medical expenses,34567,VA,12.5,0
+93,1093,15000,36,20.49,402.0,D,D4,5 years,OWN,135000,Verified,2022-01-10,Current,small_business,Business expansion,45678,TX,23.0,1
+94,1094,2600,60,10.49,86.0,B,B2,2 years,MORTGAGE,64000,Source Verified,2022-02-25,Current,moving,Moving and relocation,56789,WA,14.5,0
+95,1095,1000,36,21.99,40.0,E,E1,< 1 year,RENT,45000,Not Verified,2022-03-20,Late (16-30 days),other,Other,67890,CA,30.0,2
+96,1096,7500,60,17.89,185.0,C,C2,4 years,MORTGAGE,88000,Source Verified,2022-04-15,Current,credit_card,Credit card refinancing,78901,IL,20.0,0
+97,1097,5400,36,13.89,180.0,B,B4,7 years,OWN,62000,Verified,2022-05-10,Current,car,Car purchase,89012,NY,16.0,1
+98,1098,11000,60,19.49,308.0,D,D3,10+ years,RENT,120000,Not Verified,2022-06-25,Current,major_purchase,Major purchase,90123,FL,18.5,0
+99,1099,6000,36,8.49,189.0,A,A2,3 years,MORTGAGE,80000,Verified,2022-07-20,Fully Paid,home_improvement,Home improvement,12345,TX,10.0,0
+100,1100,9500,60,14.99,225.0,B,B5,8 years,OWN,95000,Source Verified,2022-08-15,Current,debt_consolidation,Debt consolidation,23456,GA,15.5,2
